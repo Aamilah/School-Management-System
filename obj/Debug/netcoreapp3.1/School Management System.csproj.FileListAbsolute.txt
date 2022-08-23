@@ -1,0 +1,77 @@
+C:\Users\pnash\source\repos\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.exe
+C:\Users\pnash\source\repos\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.deps.json
+C:\Users\pnash\source\repos\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.runtimeconfig.json
+C:\Users\pnash\source\repos\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.runtimeconfig.dev.json
+C:\Users\pnash\source\repos\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.dll
+C:\Users\pnash\source\repos\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.pdb
+C:\Users\pnash\source\repos\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.csprojAssemblyReference.cache
+C:\Users\pnash\source\repos\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.Form1.resources
+C:\Users\pnash\source\repos\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.csproj.GenerateResource.cache
+C:\Users\pnash\source\repos\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.AssemblyInfoInputs.cache
+C:\Users\pnash\source\repos\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.AssemblyInfo.cs
+C:\Users\pnash\source\repos\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\pnash\source\repos\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.dll
+C:\Users\pnash\source\repos\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.pdb
+C:\Users\pnash\source\repos\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.genruntimeconfig.cache
+C:\Users\pnash\source\repos\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.Login.resources
+C:\Users\pnash\source\repos\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.Properties.Resources.resources
+C:\Users\pnash\source\repos\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.MainForm.resources
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.csprojAssemblyReference.cache
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.Form1.resources
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.MainForm.resources
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.Login.resources
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.Properties.Resources.resources
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.Students.resources
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.csproj.GenerateResource.cache
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.AssemblyInfoInputs.cache
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.AssemblyInfo.cs
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.dll
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.pdb
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.exe
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.deps.json
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.runtimeconfig.json
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.runtimeconfig.dev.json
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.dll
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.pdb
+C:\Users\pnash\source\repos\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.genruntimeconfig.cache
+C:\Users\Aamilah\OneDrive\Desktop\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.csprojAssemblyReference.cache
+C:\Users\Aamilah\OneDrive\Desktop\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.dll
+C:\Users\Aamilah\OneDrive\Desktop\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.pdb
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.csprojAssemblyReference.cache
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.dll
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.pdb
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.exe
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.deps.json
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.runtimeconfig.json
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.runtimeconfig.dev.json
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.dll
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\School Management System.pdb
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.MainForm.resources
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.ProgressBar.resources
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.Properties.Resources.resources
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.Students.resources
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.csproj.GenerateResource.cache
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.AssemblyInfoInputs.cache
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.AssemblyInfo.cs
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.genruntimeconfig.cache
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.Fees.resources
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.Exam.resources
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.Subject.resources
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School Management System.csproj.CopyComplete
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.Gaurdian.resources
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.LoginAdmin.resources
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.StudentHome.resources
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.StudentLogin.resources
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.TeacherLogin.resources
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.UserList.resources
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.Teacher.resources
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.TeacherHome.resources
+C:\Users\Aamilah\source\repos\School Managment System 1.0\School Managment System 1.0\School Management System\School Management System\obj\Debug\netcoreapp3.1\School_Management_System.AddAccount.resources
